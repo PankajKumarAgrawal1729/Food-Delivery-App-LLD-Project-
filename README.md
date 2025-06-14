@@ -57,4 +57,4 @@ This project is for educational purposes.
 
 # Food Delivery App (LLD Project)
 
-![UML Diagram](uml.png)
+![UML Diagram](https://github.com/PankajKumarAgrawal1729/Food-Delivery-App-LLD-Project-/blob/main/UML.png)
